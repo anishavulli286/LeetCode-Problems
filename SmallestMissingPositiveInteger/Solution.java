@@ -36,5 +36,6 @@ public class Solution {
         }
         int count = findSmallestMissingPositive(numList);
         System.out.println("Missing Smallest Integer: " + count);
+        sc.close();
     }
 }
